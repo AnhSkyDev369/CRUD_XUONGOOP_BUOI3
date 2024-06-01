@@ -1,0 +1,15 @@
+{
+    "name": "azsysrise/buoi3_crud_xuongoop",
+    "autoload": {
+        "psr-4": {
+            "Azsysrise\\Buoi3CrudXuongoop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anh Sky Dev",
+            "email": "anhhh11345@gmail.com"
+        }
+    ],
+    "require": {}
+}
